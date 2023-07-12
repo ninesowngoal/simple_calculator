@@ -6,6 +6,7 @@ and add the results to the text file.
 
 ## Installation
 Navigate to the releases by clicking on "simple calculator v1" on the right under "releases".
+
 ![installation 1](https://github.com/ninesowngoal/simple_calculator/assets/126208712/e641d426-cb9c-47bb-9861-1851f97e6068)
 
 Then click on "simple calculator.zip" to download it.
@@ -21,4 +22,5 @@ It will continue calculating for as long as you keep answering yes to whether yo
 ![usage 1](https://github.com/ninesowngoal/simple_calculator/assets/126208712/b105863f-a96d-42dd-b0f2-0d6a4a4eaaa6)
 
 To see the equations you've made, simply open the user_equations.txt file.
+
 ![usage 2](https://github.com/ninesowngoal/simple_calculator/assets/126208712/893743ab-023d-4181-b62c-4358ca839976)
